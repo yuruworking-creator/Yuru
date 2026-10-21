@@ -1,2 +1,3 @@
 # Yuru
 My personal repository
+🐰
